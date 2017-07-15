@@ -1,0 +1,10 @@
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\BooPet.exe.config
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\Template.st
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\BooPet.exe
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\BooPet.pdb
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\Antlr3.Runtime.dll
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\Antlr3.StringTemplate.dll
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\Antlr3.Runtime.xml
+D:\To Upload\Source\BooPet\BooPet\bin\Debug\Antlr3.StringTemplate.xml
+D:\To Upload\Source\BooPet\BooPet\obj\Debug\BooPet.exe
+D:\To Upload\Source\BooPet\BooPet\obj\Debug\BooPet.pdb
